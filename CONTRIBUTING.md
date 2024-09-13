@@ -62,7 +62,7 @@ Envie as alterações realizadas no seu repositório local para a branch `feat/c
 git push origin feat/community/SEU_USERNAME
 ```
 >[!WARNING]
-> Caso você tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
+> Caso VC tenha criado seu arquivo diretamente no repositório remoto no GitHub, esse processo não será necessário.
 
 ### 8) Crie um **Pull Request**.
 
